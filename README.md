@@ -1,3 +1,9 @@
+## Build & Co
+
+https://david-dm.org/xdsl34/react-boilerplate.svg
+https://david-dm.org/xdsl34/react-boilerplate#info=devDependencies
+[![Coverage Status](https://coveralls.io/repos/github/xdsl34/react-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/xdsl34/react-boilerplate?branch=master)
+
 ## Stack
 
 ### Core
