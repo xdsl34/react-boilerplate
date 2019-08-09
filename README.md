@@ -1,8 +1,21 @@
 ## Build & Co
 
-https://david-dm.org/xdsl34/react-boilerplate.svg
-https://david-dm.org/xdsl34/react-boilerplate#info=devDependencies
-[![Coverage Status](https://coveralls.io/repos/github/xdsl34/react-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/xdsl34/react-boilerplate?branch=master)
+<!-- Dependency Status -->
+  <a href="https://david-dm.org/xdsl34/react-boilerplate">
+    <img src="https://david-dm.org/xdsl34/react-boilerplate.svg" alt="Dependency Status" />
+  </a>
+  <!-- devDependency Status -->
+  <a href="https://david-dm.org/xdsl34/react-boilerplate#info=devDependencies">
+    <img src="https://david-dm.org/xdsl34/react-boilerplate/dev-status.svg" alt="devDependency Status" />
+  </a>
+  <!-- Build Status -->
+  <a href="https://travis-ci.org/xdsl34/react-boilerplate">
+    <img src="https://travis-ci.org/xdsl34/react-boilerplate.svg" alt="Build Status" />
+  </a>
+ <!-- Test Coverage -->
+  <a href="https://coveralls.io/r/xdsl34/react-boilerplate">
+    <img src="https://coveralls.io/repos/github/xdsl34/react-boilerplate/badge.svg" alt="Test Coverage" />
+  </a>
 
 ## Stack
 
